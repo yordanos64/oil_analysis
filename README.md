@@ -51,3 +51,14 @@ A univariate pricing model can be expanded into a multivariate framework by inco
 #### B. Econometric Model Frameworks
 * **Vector Autoregression (VAR)**: This framework allows us to capture the dynamic, bi-directional relationships between Brent oil prices and macroeconomic variables over time. Instead of treating variables in isolation, a VAR system treats all variables endogenously, modeling how a structural shock to inflation or global trade directly propagates through oil pricing networks over subsequent lags.
 * **Markov-Switching Models**: Unlike single or multi-step discrete change points, Markov-Switching models assume the underlying market alternates between hidden states or "regimes"—specifically a **'Calm/Low Volatility Regime'** and a **'Crisis/High Volatility Regime'**. This framework explicitly calculates the time-varying probability of transitioning between states, allowing analysts to model how long the market is expected to remain in a highly volatile structural state following a geopolitical shock.
+## Task 4: Government Policy Brief & Strategic Forecasting
+
+### 🏛️ Executive Policy Recommendations for Energy Security
+Based on our time-series modeling and 30-day forward forecasts, Birhan Energies presents the following strategic directives for national energy advisory bodies:
+
+1. **Establish Dynamic Strategic Petroleum Reserves (SPR)**
+   * *Policy Step*: Utilize identified Bayesian change points to optimize buying windows. Government procurement teams should aggressively fill strategic reserves when the pricing model flags a low-variance, bottom-regime shift (e.g., post-crisis pricing drops below the $\mu_2$ threshold).
+2. **Implement Fiscal Hedging Frameworks**
+   * *Policy Step*: For energy-importing nations, use our 30-day ARIMA projection channels to lock in futures contract rates during periods of forecasted volatility clustering. This shields public transport grids and national utility budgets from sudden market spikes.
+3. **Accelerate Renewable Infrastructure Diversification**
+   * *Policy Step*: Our historical regime-switching analysis proves that geopolitical conflicts cause structural pricing support to elevate permanently. To protect long-term economic stability, governments must treat high-amplitude oil volatility as a core national security risk and accelerate capital allocation toward localized renewable generation networks.
